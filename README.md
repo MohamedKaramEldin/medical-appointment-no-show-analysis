@@ -8,6 +8,4 @@ The notebook contains the questions, cleaning steps, analysis, and conclusions. 
 
 ## Open the analysis
 
-To run the notebook, keep `noshowappointments-kagglev2-may-2016.csv` in the same folder.
-
-The dataset was provided for the udacity project. The code and written analysis are my own coursework, based on the supplied project notebook.
+The dataset is included in the `data` directory and was provided by Udacity. The code and written analysis are my own coursework.
